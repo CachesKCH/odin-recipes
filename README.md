@@ -1,2 +1,2 @@
 # odin-recipes
-An HTML introduction
+An HTML introduction and some recipes.
